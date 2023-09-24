@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    text-align: center;
+    padding: 10px 15px;
+}
+.new{
+    min-width: 50%;
+}
+.footer-box{
+    background-color: grey;
+}
+button{
+    min-width: 10%;
+    background-color: green;
+    color:white;
+    margin:10px;
+}
